@@ -5,7 +5,7 @@ Map your IBM SPSS data in Esri® ArcGIS Online.   Export, transfer, load, your d
 
 ![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Publish-to-ArcGIS/master/Screenshot/Illustration1.png)
 ![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Publish-to-ArcGIS/master/Screenshot/Illustration2.png)
-![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Publish-to-ArcGIS/master/Screenshot/Illustration3.png)
+![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Publish-to-ArcGIS/master/Screenshot/Illustration3.PNG)
 
 Check some live demos here:
 - [Geospatial Analysis on Twitter Data in the Esri Dev Summit 2015][10]
