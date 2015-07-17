@@ -42,7 +42,7 @@ Documentation and samples
 ----
 - Find a PDF with the documentation of this extension in the [Documentation][5] directory
 - There is a sample available in the [example][6] directory
-- [Video-tutorial][20]
+
 
 ---
 License
@@ -61,8 +61,8 @@ Contributors
 [2]:https://developer.ibm.com/predictiveanalytics/downloads/#tab2
 [3]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/raw/master/Source%20code/plotSpatialData.cfe
 [4]:https://cran.r-project.org/web/packages/RCurl/
-[5]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/blob/master/Documentation/PlotSpatialData-SPSSModelerExtension.pdf
-[6]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/tree/master/Example
+[5]:https://github.com/IBMPredictiveAnalytics/Publish-to-ArcGIS/raw/master/Documentation/PushToArcGIS-SPSSModelerExtension.pdf
+[6]:https://github.com/IBMPredictiveAnalytics/Publish-to-ArcGIS/tree/master/Example
 [10]:https://developer.ibm.com/predictiveanalytics/2015/03/11/tweets-during-esri-dev-summit-and-bnp-paribas-open/
 [11]:https://cran.r-project.org/web/packages/plyr/
 [12]:https://developer.ibm.com/predictiveanalytics/2015/03/11/crime-prediction-using-ibm-spss-modeler-and-arcgis/
