@@ -14,7 +14,7 @@ Check some live demos here:
 ---
 Requirements
 ----
-- IBM SPSS Modeler v16.0 or later
+- IBM SPSS Modeler v16 or later
 - IBM SPSS Modeler 'R Essentials' Plugin
 - R 2.15.x or R 3.1
 
