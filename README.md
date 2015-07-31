@@ -1,5 +1,5 @@
 # Publish-to-ArcGIS
-###Publish your SPSS analysis to Esri ArcGIS platform.
+###Publish your SPSS analysis to Esri ArcGIS platform
 
 Map your IBM SPSS data in Esri® ArcGIS Online.   Export, transfer, load, your data for map visualization and deeper geospatial analytics.   This node relies on the Requests API. 
 
